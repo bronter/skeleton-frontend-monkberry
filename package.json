@@ -1,13 +1,13 @@
 {
-  "name": "portfolio",
+  "name": "skeleton-frontend-monkberry",
   "version": "1.0.0",
-  "description": "My portfolio",
+  "description": "Skeleton frontend using monkberry, sass, and es6",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Gabriel Charleboix",
+  "license": "",
   "dependencies": {
     "monkberry": "^4.0.4"
   },
