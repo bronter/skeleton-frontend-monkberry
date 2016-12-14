@@ -1,5 +1,5 @@
 # skeleton-frontend-monkberry
-Skeleton front-end using monkberry, sass, and es6
+Skeleton front-end using monkberry, sass, and es7
 
 Setup
 -----
